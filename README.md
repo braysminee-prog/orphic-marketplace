@@ -1,4 +1,4 @@
-# Pixel Perfect Copy
+# orphic marketplace
 
 Implement exactly the screenshot and nothing else
 
@@ -6,7 +6,7 @@ This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e45df306-43dc-48f1-98ab-0b9563d04012).
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/58749ed9-d628-4e3a-9519-4ea1ab16b804).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
