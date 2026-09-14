@@ -37,7 +37,7 @@ export const Route = createFileRoute("/wallet")({
   component: WalletPage,
 });
 
-export default function WalletPage() {
+function WalletPage() {
   const [hidden, setHidden] = useState(false);
   const [range, setRange] = useState<WalletRangeKey>("30d");
   const [state, setState] = useState<"loading" | "ready">("loading");

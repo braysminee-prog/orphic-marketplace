@@ -3,10 +3,10 @@ import { Clapperboard, Home, User, Users, Wallet } from "lucide-react";
 
 const items = [
   { label: "Beranda", icon: Home, to: "/" },
-  { label: "Dompet", icon: Wallet, to: undefined },
+  { label: "Dompet", icon: Wallet, to: "/wallet" },
   { label: "Komunitas", icon: Users, to: undefined },
   { label: "Shorts", icon: Clapperboard, to: undefined },
-  { label: "Profil", icon: User, to: undefined },
+  { label: "Profil", icon: User, to: "/profile" },
 ] as const;
 
 export function BottomNav() {
